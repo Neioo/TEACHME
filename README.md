@@ -148,3 +148,67 @@ This is designed for:
 
 This is an evolving framework.
 It will be refined as thinking improves.
+
+## Usage & Derivatives
+
+TEACHME.md is designed to be used, modified, and adapted across different projects, teams, and learning environments.
+
+It is intentionally not tied to any specific language, framework, or architecture.
+
+---
+
+## How to Use This Framework
+
+You can:
+
+* Apply it to your own projects as a thinking guide
+* Modify it to match your team’s engineering culture
+* Extend it with additional rules or learning structures
+* Combine it with other documentation systems (e.g. ADRs, architecture docs)
+
+---
+
+## How to Extend It
+
+When creating a derivative or adapted version:
+
+### Keep the core principles intact:
+
+* Problem-first thinking
+* Constraints-based reasoning
+* Tradeoff-driven decision making
+* Code dissection by ownership and behavior
+
+---
+
+### You may customize:
+
+* Depth levels in code dissection
+* Teaching tone (strict, casual, mentor-style, etc.)
+* Domain-specific extensions (e.g. backend, ML systems, mobile apps)
+
+---
+
+## Attribution Guideline
+
+If you use or adapt this framework, attribution is appreciated but not required under the MIT License.
+
+Recommended attribution format:
+
+> Inspired by TEACHME.md — a software engineering thinking framework.
+
+---
+
+## Design Intent
+
+This framework is not meant to be authoritative.
+
+It is meant to be:
+
+* A thinking structure
+* A learning accelerator
+* A way to reduce “blind coding”
+* A system for improving engineering judgment
+
+Improvement and criticism are expected.
+
